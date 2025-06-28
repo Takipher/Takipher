@@ -1,16 +1,16 @@
-## Hi there 👋
+# 📜 Radhwan Hassine -- @Takipher
 
-<!--
-**Takipher/Takipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded systems engineering student at HEPIA (Geneva), currently in my final bachelor year.
 
-Here are some ideas to get you started:
+I'm interested in:
+- Low-level development (C)
+- Hardware design (FPGA, Verilog, RISC-V)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+- RISC-V processor written in Verilog
+- This year, I'll also work on my bachelor thesis — most likely an FPGA-based project
+
+## Contact
+Feel free to reach out:
+- radhwan.hassine@etu.hesge.ch / radhwanhassine@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/radhwan-hassine-ab173b197/)
